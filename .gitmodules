@@ -1,0 +1,12 @@
+[submodule "gcc4mbed"]
+	path = gcc4mbed
+	url = git@github.com:adamgreen/gcc4mbed.git
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = git@github.com:adafruit/Adafruit-GFX-Library.git
+[submodule "Adafruit_FT6206_Library"]
+	path = Adafruit_FT6206_Library
+	url = git@github.com:adafruit/Adafruit_FT6206_Library.git
+[submodule "Adafruit_ILI9341"]
+	path = Adafruit_ILI9341
+	url = git@github.com:adafruit/Adafruit_ILI9341.git
